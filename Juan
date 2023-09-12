@@ -1,0 +1,8 @@
+#include <iostream>
+
+using namespace std;
+
+class Juan
+{
+Juan() { cout << "Hello World"}
+};
